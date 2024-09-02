@@ -1,2 +1,4 @@
-# credit_scoring
-predicting credit score for bank clients
+# Credit Scoring
+
+The goal is to predict credit score for bank clients
+
